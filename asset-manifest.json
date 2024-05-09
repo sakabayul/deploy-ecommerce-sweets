@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/deploy-ecommerce-sweets/static/js/main.3e3bf521.js",
+    "index.html": "/deploy-ecommerce-sweets/index.html",
+    "main.3e3bf521.js.map": "/deploy-ecommerce-sweets/static/js/main.3e3bf521.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3e3bf521.js"
+  ]
+}
